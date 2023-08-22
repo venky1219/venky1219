@@ -4,7 +4,6 @@
 
 - 👨‍🎓 I am studying for a _B.Tech_ degree in _Computer Science_.
 - 👨‍💻 I'm very curious to learn about all aspects of _Computer Science_.
-- 🔭 Currently learning and working on _Spring Boot_ and _JUnit_.
 
 ---
 
