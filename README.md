@@ -27,6 +27,6 @@
 
 <div align = right>
 
-[![profile-views](https://komarev.com/ghpvc/?username=pkshetty15&style=for-the-badge)](https://github.com/venky1219)
+[![profile-views](https://komarev.com/ghpvc/?username=venky1219&style=for-the-badge)](https://github.com/venky1219)
 
 </div>
